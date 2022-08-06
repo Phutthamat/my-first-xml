@@ -9,4 +9,4 @@
 - Stats & ML
 
 ## My Portfolios
-Please see my Google Data Studio dashboard [here](https://www.google.com)
+Please see my Google Data Studio dashboard [here](https://github.com/Phutthamat/my-first-xml/blob/main/Sale_Report_Batch_5_(Jul_22).pdf)
